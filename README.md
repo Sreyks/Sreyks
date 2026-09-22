@@ -17,4 +17,6 @@
 
 Ещё три части трека по детекции объектов (YOLOv8) лежат в [другом моём аккаунте](https://github.com/vladpaulino50-eng) — раньше заводил репозитории отдельно от текущего.
 
+- [signature-detection-yolo](https://github.com/Sreyks/signature-detection-yolo) и [tiger-pose-yolo](https://github.com/Sreyks/tiger-pose-yolo) — дообучение YOLOv8n на CPU, разбор что значит переобучение на практике
+
 Полный список остального — в репозиториях ниже.
